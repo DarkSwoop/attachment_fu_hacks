@@ -3,6 +3,9 @@ AttachmentFuHacks
 
 Appends "local_file=" to InstanceMethods to provide an easy way to import locally stored files with attachment_fu
 
+Requirements
+============
+mime_type_fu plugin for rails
 
 Example
 =======
